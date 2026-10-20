@@ -1,4 +1,4 @@
-# Olá, eu sou o Junqueira! 👋
+# Olá, eu sou o Junkeira! 👋
 
 **Systems & Backend Developer | Python & Go | Game Developer**
 
