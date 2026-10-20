@@ -1,6 +1,6 @@
 # Olá, eu sou o Junkeira! 👋
 
-**Systems & Backend Developer | Python & Go | 
+**Systems & Backend Developer | Python & Go |**
 
 Desenvolvo sistemas de alta performance, ferramentas de infraestrutura/CLI e motores de backend, unindo a velocidade e elegância do **Go** para sistemas de baixo nível com a flexibilidade do **Python** para prototipagem e automação.
 
