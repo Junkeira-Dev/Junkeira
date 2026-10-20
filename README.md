@@ -1,4 +1,4 @@
-# Olá, eu sou o Batheuzin! 👋
+# Olá, eu sou o Junqueira! 👋
 
 **Systems & Backend Developer | Python & Go | Game Developer**
 
