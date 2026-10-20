@@ -30,8 +30,3 @@ Atualmente, estou me aprofundando em **Go**, **Linux Internals** (Namespaces, Cg
 | **Ferramentas & Workflow** | Git, Docker, Linux/WSL2, Makefiles |
 
 ---
-
-### 🚀 O que estou construindo / estudando no momento
-
-- 🛠️ **Build Your Own X (em Go):** Projetos práticos de baixo nível reimplementando servidores TCP (tipo Redis), engines de tarefas/grafos (tipo Terraform) e isolamento de processos (mini-Docker).
-- 🧬 **Python + Go Stack:** Prototipe rápido em Python, isole gargalos e escale a performance com executáveis binários estáticos em Go.
